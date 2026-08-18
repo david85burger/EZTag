@@ -21,9 +21,9 @@ EZ Tag is a modern expense tracking and receipt management application designed 
 
 **Email:** david85burger@outlook.com
 
-**Website:** EZ Tag  
+**Website:** [EZ Tag](https://www.ez-tag.com.co)
 
-*Bio:* Experienced developer with mastery in coding, passionate about open‑source collaboration, and known for a helping nature.
+**Bio:** Experienced developer with mastery in coding, passionate about open‑source collaboration, and known for a helping nature.
 
 ## Getting Started
 Clone the Repository:
